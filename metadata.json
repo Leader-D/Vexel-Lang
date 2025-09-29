@@ -1,0 +1,5 @@
+{
+  "name": "Member Management Dashboard",
+  "description": "A web application to manage a list of members, track their attendance, and keep notes. Users can add, view, and delete members, and each member has a detailed profile page.",
+  "requestFramePermissions": []
+}
